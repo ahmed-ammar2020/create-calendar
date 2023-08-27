@@ -1,0 +1,31 @@
+table {
+  margin-top: 20px;
+}
+
+table td.td-elem {
+  border: 1px solid #022dba;
+  text-align: center;
+  width: 20px;
+  padding: 10px;
+}
+
+table td.td-elem-head {
+  border: 1px solid #022dba;
+  text-align: center;
+  width: 20px;
+  padding: 10px;
+  font-weight: bold;
+  background-color: #efac1d;
+}
+
+.mt {
+  margin-top: 10px;
+}
+
+label {
+  width: 100px;
+  display: inline-block;
+}
+input[type="number"] {
+  width: 200px;
+}
